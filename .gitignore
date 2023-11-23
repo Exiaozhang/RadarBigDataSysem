@@ -1,0 +1,3 @@
+# Project exclude paths
+/es-demo/target/
+/sparkStreaming-realtime/target/
